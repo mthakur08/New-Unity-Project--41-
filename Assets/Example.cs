@@ -3,7 +3,7 @@
 
 public class Example : MonoBehaviour 
 {
-    public int AlexaNumber;
+    public int AprilsNumber;
     bool condition;
     void Start()
     {
